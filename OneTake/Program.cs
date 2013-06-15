@@ -8,9 +8,11 @@ class Solution
 {
     static void Main(String[] args) {
 
-        PalindromStringFinder finder = new PalindromStringFinder();
-        finder.test();
-        //BFSBinaryTree.test();
+        //PalindromStringFinder finder = new PalindromStringFinder();
+        //finder.test();
+
+        DupliatePrimeNumberRemover remover = new DupliatePrimeNumberRemover();
+        remover.test();
 
         Console.Read();
    }

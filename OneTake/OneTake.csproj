@@ -52,6 +52,7 @@
     <Compile Include="ClockwiseMatrixVisitor.cs" />
     <Compile Include="DFSDiagraph.cs" />
     <Compile Include="Digraph.cs" />
+    <Compile Include="DupliatePrimeNumberRemover.cs" />
     <Compile Include="FiveMaxGradeStudentFinder.cs" />
     <Compile Include="KNearestPointFinder.cs" />
     <Compile Include="KSmallestFinder.cs" />

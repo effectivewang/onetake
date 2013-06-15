@@ -18,11 +18,13 @@ namespace OneTake
 
         public static void areEqual<T>(T expected, T actual) {
             bool condition = false;
-
+            
             if(expected == null && actual == null) condition = true;
             else if(expected == null) condition = false;
             else condition = expected.Equals(actual);
 
+           
+            
             assert(condition, String.Format("Expected - {0}, Actual - {1}", expected, actual));
         }
     }

@@ -3,3 +3,8 @@ C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\OneTake\bin\Debug\OneTake.pd
 C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\OneTake\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\OneTake\obj\x86\Debug\OneTake.exe
 C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\OneTake\obj\x86\Debug\OneTake.pdb
+C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\obj\x86\Debug\OneTake.exe
+C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\obj\x86\Debug\OneTake.pdb
+C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\bin\Debug\OneTake.exe
+C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\bin\Debug\OneTake.pdb
+C:\Users\wangxiong\Documents\GitHub\OneTake\OneTake\obj\x86\Debug\ResolveAssemblyReference.cache
