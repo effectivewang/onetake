@@ -65,9 +65,6 @@
     <Compile Include="SortedArrayOneFinder.cs" />
     <Compile Include="TelephoneNumberPrinter.cs" />
     <Compile Include="UserVisitRecordFinder.cs" />
-    <Compile Include="Verfication\SequenceSubCollectionFinderVerifer.cs" />
-    <Compile Include="IProblem.cs" />
-    <Compile Include="Problem\SequenceSubCollectionFinder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
