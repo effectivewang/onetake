@@ -45,10 +45,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdvanceElevator.cs" />
     <Compile Include="AlphabetOrderFinder.cs" />
     <Compile Include="Assert.cs" />
     <Compile Include="BFSBinaryTree.cs" />
     <Compile Include="BinarySearch.cs" />
+    <Compile Include="BitSwapRequired.cs" />
+    <Compile Include="BSTChecker.cs" />
     <Compile Include="ClockwiseMatrixVisitor.cs" />
     <Compile Include="DFSDiagraph.cs" />
     <Compile Include="Digraph.cs" />
@@ -58,11 +61,13 @@
     <Compile Include="KSmallestFinder.cs" />
     <Compile Include="LowestCommonAnstor.cs" />
     <Compile Include="MaxIntervalFinder.cs" />
+    <Compile Include="MaxProfitCaculator.cs" />
     <Compile Include="MedianFinder.cs" />
     <Compile Include="MissingNumberFinder.cs" />
     <Compile Include="NumberGenerator.cs" />
     <Compile Include="PalindromStringFinder.cs" />
     <Compile Include="RotatedArrayFinder.cs" />
+    <Compile Include="SameBitsOperations.cs" />
     <Compile Include="SortedArrayOneFinder.cs" />
     <Compile Include="TelephoneNumberPrinter.cs" />
     <Compile Include="UserVisitRecordFinder.cs" />

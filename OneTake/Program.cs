@@ -6,15 +6,24 @@ using OneTake;
 
 class Solution
 {
-    static void Main(String[] args) {
+    private static String[] readArguments() {
+        String count = Console.ReadLine().Trim();
+        int c = int.Parse(count);
 
-        //PalindromStringFinder finder = new PalindromStringFinder();
-        //finder.test();
+        String[] args = new String[c];
+        for (int i = 0; i < c; i++) {
+            args[i] = Console.ReadLine();
+        }
 
-        DupliatePrimeNumberRemover remover = new DupliatePrimeNumberRemover();
-        remover.test();
+        return args;
+    }
+
+    static void Main(String[] args)
+    {
+        //String[] arguments = readArguments();
+        MaxProfitCaculator c = new MaxProfitCaculator();
+        c.test();
 
         Console.Read();
    }
-
 }
