@@ -19,7 +19,9 @@ namespace OneTake
             for (int i = 0; i < array.Length; i++) {
                 if (min > array[i]) min = array[i];
 
-                maxProfit = array[i] - min;
+                int temp = array[i] - min;
+                if (temp > maxProfit)
+                    maxProfit = temp;
             }
 
             return maxProfit;
